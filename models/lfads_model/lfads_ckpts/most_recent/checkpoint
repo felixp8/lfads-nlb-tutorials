@@ -1,0 +1,4 @@
+model_checkpoint_path: "mrc-ckpt-741"
+all_model_checkpoint_paths: "mrc-ckpt-741"
+all_model_checkpoint_timestamps: 1664245788.8061988
+last_preserved_timestamp: 1664243738.777991
