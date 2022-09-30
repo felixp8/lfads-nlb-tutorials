@@ -32,7 +32,7 @@ TRAIN:
   ADAM_EPSILON: 1.0e-07
   BATCH_SIZE: 500
   DATA:
-    DIR: ../data/
+    DIR: ../../data/
     PREFIX: lfads
   EAGER_MODE: false
   ENCODERS_ONLY: false
