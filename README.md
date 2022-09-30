@@ -1,4 +1,4 @@
-# Modeling neural population activity and evaluating model fit with LFADS and NLB
+# Modeling neural population dynamics and evaluating model fit with LFADS and NLB
 Tutorial notebooks on LFADS and NLB for NeuroDataReHack 2022.
 
 ## Contents
