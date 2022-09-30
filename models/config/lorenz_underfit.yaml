@@ -18,7 +18,7 @@ MODEL:
   IC_POST_VAR_MIN: 1.0e-4
 TRAIN:
   DATA:
-    DIR: ../../data/ # absolute paths are better
+    DIR: ./data/ # absolute paths are better
     PREFIX: lfads
   PATIENCE: 150
   BATCH_SIZE: 500

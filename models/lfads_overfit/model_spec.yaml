@@ -32,7 +32,7 @@ TRAIN:
   ADAM_EPSILON: 1.0e-07
   BATCH_SIZE: 500
   DATA:
-    DIR: ../../data/
+    DIR: data/
     PREFIX: lfads
   EAGER_MODE: false
   ENCODERS_ONLY: false
@@ -58,7 +58,7 @@ TRAIN:
     STOP: 1.0e-05
   MAX_EPOCHS: 10000
   MAX_GRAD_NORM: 200.0
-  MODEL_DIR: lfads_overfit/
+  MODEL_DIR: models/lfads_overfit/
   NLL_MEAN: true
   OVERWRITE: true
   PATIENCE: 150
