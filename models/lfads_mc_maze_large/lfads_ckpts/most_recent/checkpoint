@@ -1,0 +1,4 @@
+model_checkpoint_path: "mrc-ckpt-580"
+all_model_checkpoint_paths: "mrc-ckpt-580"
+all_model_checkpoint_timestamps: 1628226118.8000042
+last_preserved_timestamp: 1628219208.632388

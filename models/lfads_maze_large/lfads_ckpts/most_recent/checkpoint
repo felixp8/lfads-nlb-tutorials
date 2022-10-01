@@ -1,4 +1,0 @@
-model_checkpoint_path: "mrc-ckpt-380"
-all_model_checkpoint_paths: "mrc-ckpt-380"
-all_model_checkpoint_timestamps: 1628316908.4551392
-last_preserved_timestamp: 1628315811.6345758
