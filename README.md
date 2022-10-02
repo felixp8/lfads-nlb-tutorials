@@ -2,7 +2,7 @@
 Tutorial notebooks on LFADS and NLB for NeuroDataReHack 2022.
 
 ## Contents
-This series of tutorials covers what LFADS is, how to run it, and how to evaluate its (and similar models') performance on real data. THe tutorials consist of three notebooks:
+This series of tutorials covers what LFADS is, how to run it, and how to evaluate its (and similar models') performance on real data. The tutorials consist of three notebooks:
 1. [Understanding LFADS](https://github.com/felixp8/lfads-nlb-tutorials/blob/main/understanding_lfads.ipynb) - core concepts underlying LFADS architecture
 2. [Running LFADS](https://github.com/felixp8/lfads-nlb-tutorials/blob/main/running_lfads.ipynb) - training and tuning LFADS models using [autolfads-tf2](https://github.com/snel-repo/autolfads-tf2)
 3. [Evaluating LFADS with NLB'21](https://github.com/felixp8/lfads-nlb-tutorials/blob/main/lfads_for_nlb.ipynb) - approaches for evaluating LFADS performance using Neural Latents Benchmark '21
